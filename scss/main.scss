@@ -1,0 +1,27 @@
+// Custom Variables
+$primary: #0b4e86;
+$secondary: #f1d9bf;
+$font-size-base: 1rem;
+$h1-font-size: $font-size-base * 3.5;
+
+$font-family-sans-serif: 'Poppins', system-ui, -apple-system, 'Segoe UI',
+  'Helvetica Neue', 'Noto Sans', 'Liberation Sans', sans-serif,
+  'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+// Import Bootstrap V5
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+// Custom CSS Classes
+.header-gradient {
+  background: linear-gradient(180deg, #08365c 0%, #06223900 100%);
+}
+
+.nav-link-underline:focus {
+  border-bottom: 2px solid #ffffff;
+}
+
+.hero-bg {
+  width: 100%;
+  height: auto;
+  z-index: -1;
+}

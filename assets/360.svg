@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275" height="275" viewBox="0 0 275 275">
+  <defs>
+    <filter id="Ellipse_132" x="0" y="0" width="275" height="275" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="23" result="blur"/>
+      <feFlood flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2872" data-name="Group 2872" transform="translate(-1137 -1582)">
+    <g transform="matrix(1, 0, 0, 1, 1137, 1582)" filter="url(#Ellipse_132)">
+      <circle id="Ellipse_132-2" data-name="Ellipse 132" cx="68.5" cy="68.5" r="68.5" transform="translate(69 65)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_133" data-name="Ellipse 133" cx="58.5" cy="58.5" r="58.5" transform="translate(1216 1657)" fill="#ececec" opacity="0.41"/>
+    <g id="Ellipse_134" data-name="Ellipse 134" transform="translate(1229 1672)" fill="none" stroke="#64a1d6" stroke-width="2" opacity="0.21">
+      <ellipse cx="44" cy="43.5" rx="44" ry="43.5" stroke="none"/>
+      <ellipse cx="44" cy="43.5" rx="43" ry="42.5" fill="none"/>
+    </g>
+    <g id="Ellipse_135" data-name="Ellipse 135" transform="translate(1222 1686)" fill="none" stroke="#64a1d6" stroke-width="2" opacity="0.38">
+      <ellipse cx="52" cy="29" rx="52" ry="29" stroke="none"/>
+      <ellipse cx="52" cy="29" rx="51" ry="28" fill="none"/>
+    </g>
+    <g id="Ellipse_136" data-name="Ellipse 136" transform="translate(1245.04 1767.054) rotate(-90)" fill="none" stroke="#64a1d6" stroke-width="3" opacity="0.14">
+      <ellipse cx="52.291" cy="29.091" rx="52.291" ry="29.091" stroke="none"/>
+      <ellipse cx="52.291" cy="29.091" rx="50.791" ry="27.591" fill="none"/>
+    </g>
+    <text id="_360" data-name="360" transform="translate(1262 1720)" fill="#236194" font-size="14" font-family="'\32 9LTBukra-Bold', '\32 9LT Bukra'" font-weight="700"><tspan x="0" y="0">360</tspan></text>
+    <text id="o" transform="translate(1258 1708)" fill="#236194" font-size="14" font-family="'\32 9LTBukra-Bold', '\32 9LT Bukra'" font-weight="700"><tspan x="0" y="0">o</tspan></text>
+  </g>
+</svg>
